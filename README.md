@@ -28,7 +28,7 @@ I'm a passionate Full Stack Developer with a strong enthusiasm for programming. 
 
 ## GitHub Statistics
 <div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erwerw)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ## Visitor Count
